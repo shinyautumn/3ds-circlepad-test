@@ -1,3 +1,3 @@
-# template
+# 3DS Circle Pad Test
 
-This is a template for starting new 3DS libctru projects.
+pretty self explanatory. use start button to exit :3
