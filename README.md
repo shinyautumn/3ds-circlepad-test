@@ -1,2 +1,3 @@
-# 3ds-circlepad-test
-a basic test app for the 3ds homebrew that reads and outputs circle pad data
+# template
+
+This is a template for starting new 3DS libctru projects.
